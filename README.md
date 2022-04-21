@@ -1,5 +1,5 @@
 # appointment-planner
-Im Rahmen eines benoteten Abschlussprojekts (01.12.2021 - 22.02.2022) an der Hochschule Kaiserslautern (Standort: Zweibrücken) im Modul "Objektorientierte Programmierung", Modulverantwortlicher Prof. Dr. Eugen Staab, musste ein Programm entwickelt werden, der Termine für eine Autowerkstatt planen kann.
+Im Rahmen eines benoteten Abschlussprojekts (01.12.2021 - 22.02.2022) an der Hochschule Kaiserslautern (Standort: Zweibrücken) im Modul "Objektorientierte Programmierung", Modulverantwortlicher Prof. Dr. Eugen Staab, musste ein Programm entwickelt werden, das Termine für eine Autowerkstatt planen kann.
 
 Das Programmierprojekt musste in einem Team von drei Personen gemacht werden und es wurde dabei insbesondere mit der Versionsverwaltung GitLab gearbeitet. Es gab zu dem Projekt drei Anforderungsphasen ("Minimum Viable Product (MVP)", "Minimum Marketable Product (MMP)", "Minimum Loveable Product (MVP)"), die in Java programmiert werden mussten.
 
